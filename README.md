@@ -1,7 +1,7 @@
 # 김변수와 시작하는 코딩생활 with C언어
 
 
-<img src="https://www.youngjin.com/images/book_cover/223415798996.jpg" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/223415798996.png" height="350px" style="border: 2px solid grey;">
 
 [김변수와 시작하는 코딩생활 with C언어(영진닷컴)](https://blog.naver.com/ydot/222675216271)
 
